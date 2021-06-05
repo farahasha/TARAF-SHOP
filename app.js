@@ -13,12 +13,11 @@ else
 {
  alert("How beautiful do you see yourself out of 10?")
 }
-var pic=prompt("How beautiful do you see yourself out of 10?")
-if (userAnswer <= 10)
-{
-  for ( var i=0 ; i<pic)
-  {
-  }
+var i =prompt("How beautiful do you see yourself out of 10?")
+if (userAnswer >= 10)
+  ('for'( i < userAnswer ))
+
+ 
 console.log[document.write("<https://media.istockphoto.com/vectors/funny-lettering-illustration-of-youre-gorgeous-vector-id1186676882 />" )]
  
-  }
+
