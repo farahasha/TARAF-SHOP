@@ -11,7 +11,7 @@ else if(answer == "no"){
   }
 else
 {
- alert("How beautiful do you see yourself out of 10?")
+alert("How beautiful do you see yourself out of 10?")
 }
 var i =prompt("How beautiful do you see yourself out of 10?")
 if (userAnswer >= 10)
